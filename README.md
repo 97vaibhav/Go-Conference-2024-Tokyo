@@ -19,3 +19,5 @@ In the realm of concurrent programming, the occurrence of Data Race conditions c
 Given that we wanted to write multithreaded programs, how can we protect our systems from the unknown consequences of difficult to track down data race bugs in a manner that is reliable and scalable .
 
 Go Race Detector follows " Pure Happens Before Race Detection" using Vector Clocks so let's understand the concepts.
+
+Slide Link : https://docs.google.com/presentation/d/11e_I3FefwHT68nn1ReoIOFwkuJ9Ywbhgkw5tSwq2-ys/edit?usp=sharing
