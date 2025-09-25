@@ -20,4 +20,4 @@ Given that we wanted to write multithreaded programs, how can we protect our sys
 
 Go Race Detector follows " Pure Happens Before Race Detection" using Vector Clocks so let's understand the concepts.
 
-Slide Link : https://docs.google.com/presentation/d/11e_I3FefwHT68nn1ReoIOFwkuJ9Ywbhgkw5tSwq2-ys/edit?usp=sharing
+Slide Link : https://speakerdeck.com/97vaibhav/data-race-detection-in-go-from-beginners-eye
